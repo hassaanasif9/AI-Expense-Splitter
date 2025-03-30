@@ -1,4 +1,3 @@
-# AI-Expense-Splitter
 # AI-Expense-Splitter (Streamlit App)
 
 ## 🏛 Course: AF3005 – Programming for Finance
